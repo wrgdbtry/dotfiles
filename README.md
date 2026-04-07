@@ -38,8 +38,6 @@ Some packages may have different names depending on distro version.
 If something fails, install the missing package manually.
 Structure
 
-text
-
 hypr/     -> Hyprland config
 waybar/   -> Waybar config
 wofi/     -> Wofi config
