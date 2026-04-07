@@ -51,3 +51,6 @@ Screenshots
 
 <img width="1922" height="1080" alt="image" src="https://github.com/user-attachments/assets/7d687af5-6acc-469d-8e23-aaa7f9ef4685" />
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/61d90df5-d97f-4673-969d-531abb873d0f" />
+
+
