@@ -19,6 +19,7 @@ else
 fi
 
 mkdir -p ~/.config/hypr ~/.config/waybar ~/.config/wofi ~/.config/kitty ~/.config/fish
+mkdir -p ~/Pictures
 
 cp -f hypr/hyprland.conf ~/.config/hypr/
 cp -f waybar/config.jsonc ~/.config/waybar/
@@ -27,5 +28,9 @@ cp -f wofi/config ~/.config/wofi/
 cp -f wofi/style.css ~/.config/wofi/
 cp -f kitty/kitty.conf ~/.config/kitty/
 cp -f fish/config.fish ~/.config/fish/
+
+if [ -f wallpaper.webp ]; then
+    cp -f wallpaper.webp ~/Pictures/wallpaper.webp
+fi
 
 echo "Done."
